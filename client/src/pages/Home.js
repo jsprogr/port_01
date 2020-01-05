@@ -1,7 +1,7 @@
 import React, {Fragment, useContext} from 'react'
 import { Search } from '../components/Search'
 import { Card } from '../components/Card'
-import { VkGroupSearchContext } from '../context/github/githubContext'
+import { VkGroupSearchContext } from '../context/vk/githubContext'
 
 
 export const Home = () => {

@@ -1,5 +1,5 @@
 import React, {useContext, useEffect, Fragment} from 'react'
-import {VkGroupSearchContext} from '../context/github/githubContext'
+import {VkGroupSearchContext} from '../context/vk/githubContext'
 import {Link} from 'react-router-dom'
 import { Repos } from '../components/Repos'
 

@@ -5,4 +5,11 @@ export const CLEAR_USERS = 'CLEAR_USERS'
 export const GET_REPOS = 'GET_REPOS'
 export const GET_USER = 'GET_USER'
 export const SEARCH_USERS = 'SEARCH_USERS'
+
 export const SET_LOADING = 'SET_LOADING'
+
+
+export const CLEAR_GROUPS = 'CLEAR_USERS'
+export const GET_GROUPS = 'GET_GROUPS'
+export const GET_GROUP_INFO = 'GET_GROUP_INFO'
+export const SEARCH_GROUPS = 'SEARCH_GROUPS'

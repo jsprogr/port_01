@@ -1,6 +1,6 @@
 import React, {useContext, useState} from 'react'
 import { AlertContext } from '../context/alert/alertContext'
-import { VkGroupSearchContext } from '../context/github/githubContext'
+import { VkGroupSearchContext } from '../context/vk/githubContext'
 
 export const Search = () => {
     const [value, setValue] = useState('')
